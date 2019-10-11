@@ -1,7 +1,7 @@
 /* This program inputs a number and does some calculations on it */
       pull a
-      b=d*a*c*2
-      c=3/ba
-      d=5+a6
-      e=2**(a+5)
+      b=a
+      c=2/bc
+      d=1+2a
+      e=2**(b+4)
       say 'Results are:' a b c d e
